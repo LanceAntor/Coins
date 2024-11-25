@@ -30,21 +30,22 @@ namespace Coins
         }
         public static void Binary(ref Bitmap a)
         {
-            Color pixel;  
+            Color pixel;
             int avg;
             int threshold = 200;
             for (int x = 0; x < a.Width; x++)
             {
                 for (int y = 0; y < a.Height; y++)
                 {
-                    pixel = a.GetPixel(x,y);
-                    avg = (pixel.R + pixel.G +pixel.B) / 3;
+                    pixel = a.GetPixel(x, y);
+                    avg = (pixel.R + pixel.G + pixel.B) / 3;
                     if (avg < threshold)
                     {
-                        a.SetPixel(x, y, Color.Black); 
-                    } else
+                        a.SetPixel(x, y, Color.Black);
+                    }
+                    else
                     {
-                        a.SetPixel(x,y, Color.White);
+                        a.SetPixel(x, y, Color.White);
                     }
                 }
             }
@@ -94,7 +95,6 @@ namespace Coins
                             }
                             else
                             {
-                                // Create a new Coin object with the pixel count and estimated value
                                 Coin coin = new Coin
                                 {
                                     PixelCount = pixelCount,
