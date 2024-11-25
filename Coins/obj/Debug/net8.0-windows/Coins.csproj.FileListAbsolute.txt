@@ -1,0 +1,17 @@
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.Form1.resources
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.Properties.Resources.resources
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.csproj.GenerateResource.cache
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.AssemblyInfoInputs.cache
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.AssemblyInfo.cs
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.csproj.CoreCompileInputs.cache
+C:\Users\Lance Antor\source\repos\Coins\Coins\bin\Debug\net8.0-windows\Coins.exe
+C:\Users\Lance Antor\source\repos\Coins\Coins\bin\Debug\net8.0-windows\Coins.deps.json
+C:\Users\Lance Antor\source\repos\Coins\Coins\bin\Debug\net8.0-windows\Coins.runtimeconfig.json
+C:\Users\Lance Antor\source\repos\Coins\Coins\bin\Debug\net8.0-windows\Coins.dll
+C:\Users\Lance Antor\source\repos\Coins\Coins\bin\Debug\net8.0-windows\Coins.pdb
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.dll
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\refint\Coins.dll
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.pdb
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\Coins.genruntimeconfig.cache
+C:\Users\Lance Antor\source\repos\Coins\Coins\obj\Debug\net8.0-windows\ref\Coins.dll
